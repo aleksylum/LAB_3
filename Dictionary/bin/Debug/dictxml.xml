@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<ArrayOfWordForXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WordForXML word="cat">
+    <meaning>
+      <PartsOfSpeech>1</PartsOfSpeech>
+      <Translations>
+        <TranslationInfo>
+          <Transl>кот</Transl>
+          <SpeechPart>NOUN</SpeechPart>
+        </TranslationInfo>
+      </Translations>
+    </meaning>
+  </WordForXML>
+  <WordForXML word="dog">
+    <meaning>
+      <PartsOfSpeech>1</PartsOfSpeech>
+      <Translations>
+        <TranslationInfo>
+          <Transl>собака</Transl>
+          <SpeechPart>NOUN</SpeechPart>
+        </TranslationInfo>
+      </Translations>
+    </meaning>
+  </WordForXML>
+  <WordForXML word="go">
+    <meaning>
+      <PartsOfSpeech>3</PartsOfSpeech>
+      <Translations>
+        <TranslationInfo>
+          <Transl>идти</Transl>
+          <SpeechPart>VERB</SpeechPart>
+        </TranslationInfo>
+        <TranslationInfo>
+          <Transl>движение</Transl>
+          <SpeechPart>NOUN</SpeechPart>
+        </TranslationInfo>
+      </Translations>
+    </meaning>
+  </WordForXML>
+  <WordForXML word="first">
+    <meaning>
+      <PartsOfSpeech>40</PartsOfSpeech>
+      <Translations>
+        <TranslationInfo>
+          <Transl>первый</Transl>
+          <SpeechPart>NUMERAL</SpeechPart>
+        </TranslationInfo>
+        <TranslationInfo>
+          <Transl>сначала</Transl>
+          <SpeechPart>ADVERB</SpeechPart>
+        </TranslationInfo>
+      </Translations>
+    </meaning>
+  </WordForXML>
+  <WordForXML word="you">
+    <meaning>
+      <PartsOfSpeech>16</PartsOfSpeech>
+      <Translations>
+        <TranslationInfo>
+          <Transl>ты</Transl>
+          <SpeechPart>PRONOUN</SpeechPart>
+        </TranslationInfo>
+      </Translations>
+    </meaning>
+  </WordForXML>
+  <WordForXML word="do">
+    <meaning>
+      <PartsOfSpeech>2</PartsOfSpeech>
+      <Translations>
+        <TranslationInfo>
+          <Transl>делать</Transl>
+          <SpeechPart>VERB</SpeechPart>
+        </TranslationInfo>
+        <TranslationInfo>
+          <Transl>выполнять</Transl>
+          <SpeechPart>VERB</SpeechPart>
+        </TranslationInfo>
+        <TranslationInfo>
+          <Transl>заниматься</Transl>
+          <SpeechPart>VERB</SpeechPart>
+        </TranslationInfo>
+      </Translations>
+    </meaning>
+  </WordForXML>
+  <WordForXML word="verb">
+    <meaning>
+      <PartsOfSpeech>2</PartsOfSpeech>
+      <Translations>
+        <TranslationInfo>
+          <Transl>глагол</Transl>
+          <SpeechPart>VERB</SpeechPart>
+        </TranslationInfo>
+      </Translations>
+    </meaning>
+  </WordForXML>
+</ArrayOfWordForXML>
