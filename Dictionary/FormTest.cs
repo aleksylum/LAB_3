@@ -46,7 +46,7 @@ namespace LabDictionary
 					string word = parentForm.MyDict.Dict.Keys.ElementAt(rnd1);//достаем слово из словаря
 																																		//под сгенерированным номером
 					string rightAnswer;
-					string[] answer = new string[3];//сделать стат массив из 3 эл -ответов
+					string[] answer = new string[3];//сделать  массив из 3 эл -ответов
 					int numOfTransl = parentForm.MyDict.Dict[word].Translations.Count;
 					//количество переводов выбранного слова
 					int rnd2 = rnd.Next(numOfTransl);

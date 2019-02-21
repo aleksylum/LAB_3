@@ -25,8 +25,10 @@ namespace LabDictionary
 
 		private void bFind_Click(object sender, EventArgs e)
 		{
-			if (MyDict.Dict.Count != 0)
-				richTextBox1.Clear();
+            richTextBox1.Clear();
+
+            if (MyDict.Dict.Count != 0)
+				
 			{
 				if (MyDict.Dict.ContainsKey((tbFind.Text).Trim()))
 				{
@@ -37,9 +39,10 @@ namespace LabDictionary
 					}
 					richTextBox1.Text = tmp;
 				}
-				else label1.Text = "Слово не найдено.";
+				
 			}
-		}
+            else label1.Text = "Слово не найдено.";
+        }
 
 		private void bAdd_Click(object sender, EventArgs e)
 		{
